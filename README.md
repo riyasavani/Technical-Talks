@@ -1,2 +1,5 @@
 # Technical-Talks
-My first repository in which i journal all about how my life went till i learn to use github properly. thank you for understanding.
+
+## 📅 August 1, 2025
+- i learn what GitHub is
+- Download and make my first repo(though still confused what exactly repo mean)
