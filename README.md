@@ -1,8 +1,13 @@
 # Technical-Talks
 
-Hello World, Myself Riya Savani.
-I am a college 1st year student.
+Hello World 👋 
+My name is ***Riya Savani***,
+  and I'm a 1st year college student.
 
 ## 📅 August 1, 2025
-- i learn what GitHub is
-- Download and make my first repo(though still confused what exactly repo mean)
+- Learned what **GitHub** is.
+- Created my First Repository (still figuring out what exactly repo is, but I'm still exploring! )
+
+This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
+
+Stay tuned for updates on **August 2,2025!** 🤍
