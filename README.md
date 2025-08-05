@@ -31,5 +31,5 @@ My name is ***Riya Savani***,
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 2,2025!** 🤍
+Stay tuned for updates on **August 6,2025!** 🤍
 
