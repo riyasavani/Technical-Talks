@@ -1,8 +1,8 @@
-# Technical-Talks
+# Technical-Talks  
 
 Hello World 👋 
 My name is ***Riya Savani***,
-  and I'm a 1st year college student,
+I'm a 1st year college student,
   currently I'm pursuing **BSc.CS** from the **SCET University**,Surat.
 
 
@@ -33,7 +33,6 @@ My name is ***Riya Savani***,
 - Learn to made **Table** in html.
 - Hectic day
 - 🌳
-
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
