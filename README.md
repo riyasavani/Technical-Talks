@@ -29,7 +29,13 @@ My name is ***Riya Savani***,
 - Created 1st HTML table** in **VSC**
 - Such a good day today :)
 
+## 📅 August 6, 2025
+- Learn to made **Table** in html.
+- Hectic day
+- 🌳
+
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 6,2025!** 🤍
+Stay tuned for updates on **August 7,2025!** 🤍
 
