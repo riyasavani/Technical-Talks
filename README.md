@@ -32,7 +32,9 @@ I'm a 1st year college student,
 ## 📅 August 6, 2025
 - Learn to made **Table** in html.
 - Hectic day
+- Created the web page with interconnected link(redirecting/images/tables/hr)
 - 🌳
+
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
