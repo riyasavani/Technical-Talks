@@ -35,8 +35,14 @@ I'm a 1st year college student,
 - Created the web page with interconnected link(redirecting/images/tables/hr)
 - 🌳
 
+## 📅 August 7, 2025
+- Went to Nadived
+- Heroic Attendance of Suhani
+- ⚠️
+
+
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 7,2025!** 🤍
+Stay tuned for updates on **August 8,2025!** 🤍
 
