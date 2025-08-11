@@ -40,9 +40,23 @@ I'm a 1st year college student,
 - Heroic Attendance of Suhani
 - ⚠️
 
+## 📅 August 8, 2025 
+- ⚠️
 
+## 📅 August 9, 2025
+- Bhai gifted me a new phone
+- krishna's vagha
+- ⚠️
+
+## 📅 August 10, 2025
+- sir visit our home
+- ⚠️
+
+## 📅 August 11, 2025
+- visit hospital for waist pain 
+(deficiency of calcium)
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 8,2025!** 🤍
+Stay tuned for updates on **August 12,2025!** 🤍
 
