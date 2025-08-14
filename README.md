@@ -56,7 +56,19 @@ I'm a 1st year college student,
 - visit hospital for waist pain 
 (deficiency of calcium)
 
+## 📅 August 12, 2025
+
+## 📅 August 13, 2025
+- gallery cafe
+- salary
+- no reply
+- ⚠️⚠️
+
+## 📅 August 14, 2025
+- no FCS
+- 
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 12,2025!** 🤍
+Stay tuned for updates on **August 15,2025!** 🤍
 
