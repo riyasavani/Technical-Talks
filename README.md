@@ -70,6 +70,7 @@ I'm a 1st year college student,
 ## 📅 August 15, 2025
 - b'day shopping
 - go and meet an old society friend
+- ⚠️
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
