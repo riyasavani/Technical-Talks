@@ -66,9 +66,12 @@ I'm a 1st year college student,
 
 ## 📅 August 14, 2025
 - no FCS
-- 
+
+## 📅 August 15, 2025
+- b'day shopping
+- go and meet an old society friend
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 15,2025!** 🤍
+Stay tuned for updates on **August 16,2025!** 🤍
 
