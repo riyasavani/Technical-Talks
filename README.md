@@ -72,7 +72,26 @@ I'm a 1st year college student,
 - go and meet an old society friend
 - ⚠️
 
+## 📅 August 16, 2025
+- mummy n i decorate the jula for krishna's birthday
+
+## 📅 August 17, 2025
+
+## 📅 August 18, 2025
+
+## 📅 August 19, 2025
+- i ordered 99% dark cocoa chocolate
+- i made cake for my birthday(delisuous)
+
+## 📅 August 20, 2025
+- my frnd gifed me silver jewelery
+- ⚠️
+
+## 📅 August 21, 2025
+- today i met my frnd
+- ⚠️
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 16,2025!** 🤍
+Stay tuned for updates on **August 22,2025!** 🤍
 
