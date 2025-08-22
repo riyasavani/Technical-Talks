@@ -91,7 +91,10 @@ I'm a 1st year college student,
 - today i met my frnd
 - ⚠️
 
+## 📅 August 22, 2025
+- ⚠️
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 22,2025!** 🤍
+Stay tuned for updates on **August 23,2025!** 🤍
 
