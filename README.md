@@ -3,7 +3,7 @@
 Hello World 👋 
 My name is ***Riya Savani***,
 I'm a 1st year college student,
-  currently I'm pursuing **BSc.CS** from the **SCET University**,Surat.
+  currently I'm pursuing **BSc.CS** from the **SRKI College under SCET university**,Surat.
 
 
 ## 📅 August 1, 2025
