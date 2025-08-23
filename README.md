@@ -99,5 +99,5 @@ I'm a 1st year college student,
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 23,2025!** 🤍
+Stay tuned for updates on **August 24,2025!** 🤍
 
