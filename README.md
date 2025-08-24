@@ -97,7 +97,11 @@ I'm a 1st year college student,
 ## 📅 August 23, 2025
 - today i describe myself on papers in the most beautiful way.
 
+## 📅 August 24, 2025
+- such a hectic/horrible day[a frnd of mine broke frndship with us]
+- ⚠️
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 24,2025!** 🤍
+Stay tuned for updates on **August 25,2025!** 🤍
 
