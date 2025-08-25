@@ -101,7 +101,11 @@ I'm a 1st year college student,
 - such a hectic/horrible day[a frnd of mine broke frndship with us]
 - ⚠️
 
+## 📅 August 25, 2025
+- today i learn scanner sc in java for SPM.
+- ⚠️
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 25,2025!** 🤍
+Stay tuned for updates on **August 26,2025!** 🤍
 
