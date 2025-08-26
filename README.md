@@ -105,7 +105,11 @@ I'm a 1st year college student,
 - today i learn scanner sc in java for SPM.
 - ⚠️
 
+## 📅 August 26, 2025
+- Ganpati aagman(osf)
+- today i learn 'select*from' and many more constraint. working day=9 to 10:30
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 26,2025!** 🤍
+Stay tuned for updates on **August 27,2025!** 🤍
 
