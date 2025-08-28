@@ -109,7 +109,16 @@ I'm a 1st year college student,
 - Ganpati aagman(osf)
 - today i learn 'select*from' and many more constraint. working day=9 to 10:30
 
+## 📅 August 27, 2025
+- i received my books
+- sneakers and red kurta guy.
+
+## 📅 August 28, 2025
+- coz of IKS i learn what MAHAVAKYA OF UPNISHADS means.
+
+## 📅 August 29, 2025
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 27,2025!** 🤍
+Stay tuned for updates on **August 29,2025!** 🤍
 
