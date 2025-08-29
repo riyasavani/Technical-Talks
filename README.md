@@ -117,8 +117,10 @@ I'm a 1st year college student,
 - coz of IKS i learn what MAHAVAKYA OF UPNISHADS means.
 
 ## 📅 August 29, 2025
+- today i practise for learning license online test.
+- ⚠️
 
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 29,2025!** 🤍
+Stay tuned for updates on **August 30,2025!** 🤍
 
