@@ -120,7 +120,31 @@ I'm a 1st year college student,
 - today i practise for learning license online test.
 - ⚠️
 
+## 📅 August 30, 2025
+- i passed learning license test
+- prepared 56 bhoog for ganeshji
+- ⚠️
+
+## 📅 August 31, 2025
+- went to freshers party and visarjan 
+- ⚠️
+
+## 📅 September 1, 2025
+- evil eye on me and had fever and dizziness and cough
+- ⚠️
+
+## 📅 September 2, 2025
+- had fever
+- i slept whole day(~23 hours)
+- ⚠️
+
+## 📅 September 3, 2025
+- had fever, dizziness and vomit 
+
+## 📅 September 4, 2025
+- had no fever but lots of dizziness.
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **August 30,2025!** 🤍
+Stay tuned for updates on **September 1,2025!** 🤍
 
