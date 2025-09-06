@@ -147,7 +147,10 @@ I'm a 1st year college student,
 ## 🗓️ September 5, 2025
 - today i practise frameset,section id tags in html (VSC).
 
+## 🗓️ September 6, 2025
+- today i practise to make form in html (VSC)
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **September 6,2025!** 🤍
+Stay tuned for updates on **September 7,2025!** 🤍
 
