@@ -150,7 +150,13 @@ I'm a 1st year college student,
 ## 🗓️ September 6, 2025
 - today i practise to make form in html (VSC)
 
+## 🗓️ September 6 to October 2, 2025
+- Health issue ans stress and all that stuff.
+
+## 🗓️ October 3, 2025
+- surprise internal written test was taken of subject IKS.
+
 This repository is digital form of tracking my **"technical thoughts"**  and all that i **"achieve and understand"** along the way.
 
-Stay tuned for updates on **September 7,2025!** 🤍
+Stay tuned for updates on **October 4,2025!** 🤍
 
