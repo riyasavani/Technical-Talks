@@ -1,0 +1,133 @@
+
+<body>
+
+    <h2 align="center">Services</h2>
+    <div class="progress" style="height: 4px; width: 120px; margin: auto;">
+        <div class="progress-bar bg-success" style="width: 40%;"></div>
+    </div>
+    <p align="center">Check Our Services</p>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class="card" align="center">
+                    <div class="card-body">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M1 20H23M4 16H20C20.5523 16 21 15.5523 21 15V5C21 4.44772 20.5523 4 20 4H4C3.44772 4 3 4.44772 3 5V15C3 15.5523 3.44772 16 4 16Z"
+                                stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                        <h5 class="card-title">Web Development</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body" align="center">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M17 15.5H16.99M18 10.5H17.99M14 6.5H13.99M9 6.5H8.99M6 10.5H5.99M22 12C22 19.5 14 23.5 12 22C10 20.5 12.7614 18.7614 10 16C7.23858 13.2386 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z"
+                                stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                        <h5 class="card-title">Brand Design</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body" align="center">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3 3V21H21M7 16L12.25 10.75L15.75 14.25L21 9" stroke="#000000" stroke-width="1.5"
+                                stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                        <h5 class="card-title">Digital Marketing</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body" align="center">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M12.0161 18.0161L12 18M7.13378 21.5H17.1338C17.6861 21.5 18.1338 21.0523 18.1338 20.5V3.5C18.1338 2.94772 17.6861 2.5 17.1338 2.5H7.13378C6.5815 2.5 6.13378 2.94772 6.13378 3.5V20.5C6.13378 21.0523 6.5815 21.5 7.13378 21.5Z"
+                                stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                        <h5 class="card-title">Mobile Apps</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body" align="center">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M8 12L10.5 14.5L16 9M3 4.22222V13C3 17.9706 7.02944 22 12 22C16.9706 22 21 17.9706 21 13V4.22222L19.0563 4.07224C17.3629 3.94158 15.7011 3.54213 14.1333 2.88889L12 2L9.86666 2.88889C8.29889 3.54213 6.6371 3.94158 4.94372 4.07224L3 4.22222Z"
+                                stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                        <h5 class="card-title">Cyber Security</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body" align="center">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M2 21V17C2 15.8954 2.89543 15 4 15H14C15.1046 15 16 15.8954 16 17V21M16 3C16.8604 3.2203 17.623 3.7207 18.1676 4.42231C18.7122 5.12392 19.0078 5.98683 19.0078 6.875C19.0078 7.76317 18.7122 8.62608 18.1676 9.32769C17.623 10.0293 16.8604 10.5297 16 10.75M19 15H20C21.1046 15 22 15.8954 22 17V21M13 7C13 9.20914 11.2091 11 9 11C6.79086 11 5 9.20914 5 7C5 4.79086 6.79086 3 9 3C11.2091 3 13 4.79086 13 7Z"
+                                stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                        <h5 class="card-title">Consulting</h5>
+                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur<br>adipisicing elit. Ducimus
+                            temporibus, quia itaque, rerum nesciunt similique quod eum, rem reiciendis expedita
+                            consequatur eligendi. Earum dolorum excepturi consequuntur repellat! Officiis, voluptatum
+                            corrupti!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+</body>
+
+</html>
